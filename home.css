@@ -42,6 +42,7 @@ a:active{
     background-color:#FF0099;
     margin-top:10px;
     border:dashed 1px #999;
+    padding:20px;
 }
 #sidebar{
     width:100px;
